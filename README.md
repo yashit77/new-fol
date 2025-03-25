@@ -1,1 +1,7 @@
-ok now what?
+
+# hello
+*Italic*
+**Bold**
+**Italic and Bold**
+~~strikethrough~~
+
